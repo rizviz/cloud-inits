@@ -1,5 +1,5 @@
 ssh_authorized_keys:
-- ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDvhM/bE4hbLBN2y3ei2k5gnXsUrpNOdEPgHkYHnuP6mOpUfwWPW0Huc5k755xlpYIJr1z/DscTSbt3DxqLxrB/hb40LiyueH2XwXUTImsDs9mOdXpKl1L5XqLmw3y7DsPFx4TpwkLNVsC0Tvmzdaw1RgjmsymhR6Tm3mPDErwdf3hKJ2gKnEQAaNhyXjyRkJKbP7Q9Kf5OH/JEp1fj564EZK1CEKHnJrurSWLIV+4xUcdoUiuwRyxjYOSGSTxrljhm/k+UGtzK+yZoilcQFdGbAPxfOj6YEtkG/lLiTdIZqm5RadiXGZyGGmROPhzA2tGXSmDy2M91N/BYbyVJ0Sxn zee@zmbp.local
+- ssh-rsa ""
 - github:rizviz
 write_files:
 - encoding: ""
